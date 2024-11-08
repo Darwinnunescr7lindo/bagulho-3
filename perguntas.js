@@ -1,7 +1,7 @@
 criaCartao(
     'Brawstars',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Quais são os melhores modos de jogo para subir trofeu?',
+    'O combate solitario e Fut'
 )
 
 criaCartao(
