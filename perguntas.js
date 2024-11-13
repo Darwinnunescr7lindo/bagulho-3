@@ -1,23 +1,34 @@
 criaCartao(
-    'Brawstars',
+    'Brawlstars',
     'Quais são os melhores modos de jogo para subir trofeu?',
-    'O combate solitario e Fut'
+    'O combate solitario e Futbraw'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Brawlstars',
+    'Melhores Brawlers no Brawl Stars',
+    '1-Juju 
+     2-Eve
+     3-Draco'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Brawlstars',
+    'Skin mais rara do Brawl stars',
+    'Mecha Bo Dourado
+Mecha Crow Dourado
+Brock Campeão
+Shelly Estrela
+Robo Spike
+Leon Sombra
+El Brown
+Piper Calavera
+Barley Mago
+Spike Sakura'
 )
 
 criaCartao(
-    'Lingua inglesa',
+    'Brawlstars',
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
