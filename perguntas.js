@@ -1,37 +1,23 @@
 criaCartao(
-    'Brawlstars',
-    'Quais são os melhores modos de jogo para subir trofeu?',
-    'O combate solitario e Futbraw'
+    'Futebol',
+    'Qual é o melhor jogador do mundo?',
+    'O melhor jogador do mundo é o Cristiano Ronaldo'
 )
 
 criaCartao(
-    'Brawlstars',
-    'Melhores Brawlers no Brawl Stars',
-    '1-Juju 
-     2-Eve
-     3-Draco'
+    'Geografia de Futebol',
+    'De que país é o time do Ferencvárosi?',
+    'Esse time é da Hungria.'
 )
 
 criaCartao(
-    'Brawlstars',
-    'Skins mais raras do Brawl stars',
-    'Mecha Bo Dourado
-Mecha Crow Dourado
-Brock Campeão
-Shelly Estrela
-Robo Spike
-Leon Sombra
-El Brown
-Piper Calavera
-Barley Mago
-Spike Sakura'
+    'Titulos.',
+    'Quantos títulos ao todoo o real madrid tem de champions ate o ano de 2024?',
+    'Tem 15 títulos de Champions'
 )
 
 criaCartao(
-    'Brawlstars',
-    'piores brawlers do brawl stars',
-    'Shelly
-Bull
-Dynamike
-Edgar'
+    'Bonus',
+    'Por que o Marcel é bobao?',
+    'Pq ele ama ser assim'
 )
