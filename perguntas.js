@@ -1,7 +1,7 @@
 criaCartao(
     'Brawl stars',
     'Qual é o melhor brawler?',
-    'A Meg é considerada uma das Brawlers mais fortes por causa do seu Super.'
+    'A Meg é considerada uma das Brawlers mais fortes por causa do seu Super versatil.'
 )
 
 criaCartao(
@@ -11,13 +11,13 @@ criaCartao(
 )
 
 criaCartao(
-    'Titulos.',
-    'Quantos títulos ao todoo o real madrid tem de champions ate o ano de 2024?',
-    'Tem 15 títulos de Champions'
+    'Troféus.',
+    'Quantos Troféus tem o melhor jogador de braw?',
+    'Hyra com 100000 troféus'
 )
 
 criaCartao(
     'Bonus',
-    'Por que o Marcel é bobao?',
+    'Por que o Enzo é bobao?',
     'Pq ele ama ser assim'
 )
