@@ -14,7 +14,7 @@ criaCartao(
 
 criaCartao(
     'Brawlstars',
-    'Skin mais rara do Brawl stars',
+    'Skins mais raras do Brawl stars',
     'Mecha Bo Dourado
 Mecha Crow Dourado
 Brock Campeão
@@ -29,6 +29,9 @@ Spike Sakura'
 
 criaCartao(
     'Brawlstars',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'piores brawlers do brawl stars',
+    'Shelly
+Bull
+Dynamike
+Edgar'
 )
